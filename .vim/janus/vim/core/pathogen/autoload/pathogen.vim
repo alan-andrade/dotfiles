@@ -1,0 +1,1 @@
+/Users/alan/.vim/janus/vim/core/pathogen/autoload/pathogen.vim

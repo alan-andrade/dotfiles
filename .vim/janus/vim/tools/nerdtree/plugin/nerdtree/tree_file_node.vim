@@ -1,0 +1,1 @@
+/Users/alan/.vim/janus/vim/tools/nerdtree/plugin/nerdtree/tree_file_node.vim

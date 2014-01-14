@@ -1,0 +1,1 @@
+/Users/alan/.vim/janus/vim/tools/syntastic/plugin/syntastic/loclist.vim

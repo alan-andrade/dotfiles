@@ -1,0 +1,1 @@
+/Users/alan/.vim/janus/vim/colors/vividchalk/colors/vividchalk.vim

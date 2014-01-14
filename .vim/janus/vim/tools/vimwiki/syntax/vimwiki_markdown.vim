@@ -1,0 +1,1 @@
+/Users/alan/.vim/janus/vim/tools/vimwiki/syntax/vimwiki_markdown.vim

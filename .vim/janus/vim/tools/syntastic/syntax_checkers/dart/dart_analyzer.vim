@@ -1,0 +1,1 @@
+/Users/alan/.vim/janus/vim/tools/syntastic/syntax_checkers/dart/dart_analyzer.vim

@@ -1,0 +1,1 @@
+/Users/alan/.vim/janus/vim/langs/git/ftdetect/git.vim

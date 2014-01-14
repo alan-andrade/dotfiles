@@ -1,0 +1,1 @@
+/Users/alan/.vim/janus/vim/tools/janus/after/plugin/gist.vim

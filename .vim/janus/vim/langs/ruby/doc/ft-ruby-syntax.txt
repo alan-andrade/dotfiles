@@ -1,0 +1,1 @@
+/Users/alan/.vim/janus/vim/langs/ruby/doc/ft-ruby-syntax.txt

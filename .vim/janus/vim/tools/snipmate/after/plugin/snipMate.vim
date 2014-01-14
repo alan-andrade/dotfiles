@@ -1,0 +1,1 @@
+/Users/alan/.vim/janus/vim/tools/snipmate/after/plugin/snipMate.vim

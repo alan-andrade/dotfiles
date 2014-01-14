@@ -1,0 +1,1 @@
+/Users/alan/.vim/janus/vim/tools/syntastic/syntax_checkers/erlang/erlang_check_file.erl

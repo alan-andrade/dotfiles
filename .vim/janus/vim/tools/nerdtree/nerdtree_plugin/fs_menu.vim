@@ -1,0 +1,1 @@
+/Users/alan/.vim/janus/vim/tools/nerdtree/nerdtree_plugin/fs_menu.vim

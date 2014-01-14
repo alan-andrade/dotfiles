@@ -1,0 +1,9 @@
+[color]
+	ui = true
+[user]
+	email = alan.andradec@gmail.com
+  name = Alan Andrade
+[core]
+	editor = vim
+[push]
+	default = current

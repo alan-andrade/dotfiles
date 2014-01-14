@@ -1,0 +1,1 @@
+/Users/alan/.vim/janus/vim/tools/syntastic/syntax_checkers/html/w3.vim

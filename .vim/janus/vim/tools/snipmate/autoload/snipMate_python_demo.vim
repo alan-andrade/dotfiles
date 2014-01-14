@@ -1,0 +1,1 @@
+/Users/alan/.vim/janus/vim/tools/snipmate/autoload/snipMate_python_demo.vim

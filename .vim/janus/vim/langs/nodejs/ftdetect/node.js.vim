@@ -1,0 +1,1 @@
+/Users/alan/.vim/janus/vim/langs/nodejs/ftdetect/node.js.vim

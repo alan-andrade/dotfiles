@@ -1,0 +1,1 @@
+/Users/alan/.vim/janus/vim/colors/janus-colors/colors/jellybeans+.vim

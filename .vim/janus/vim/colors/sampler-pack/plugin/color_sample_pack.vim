@@ -1,0 +1,1 @@
+/Users/alan/.vim/janus/vim/colors/sampler-pack/plugin/color_sample_pack.vim

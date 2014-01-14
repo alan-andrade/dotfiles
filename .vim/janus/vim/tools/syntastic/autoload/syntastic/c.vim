@@ -1,0 +1,1 @@
+/Users/alan/.vim/janus/vim/tools/syntastic/autoload/syntastic/c.vim

@@ -1,0 +1,1 @@
+/Users/alan/.vim/janus/vim/tools/tagbar/autoload/tagbar.vim

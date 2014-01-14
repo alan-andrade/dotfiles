@@ -1,0 +1,1 @@
+/Users/alan/.vim/janus/vim/langs/emblem/ftdetect/emblem.vim

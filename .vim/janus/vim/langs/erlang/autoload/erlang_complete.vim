@@ -1,0 +1,1 @@
+/Users/alan/.vim/janus/vim/langs/erlang/autoload/erlang_complete.vim
