@@ -1,6 +1,9 @@
 ""
 "" Janus setup
 ""
+set shell=bash
+
+autocmd BufNewFile,BufReadPost *.md set filetype=markdown
 
 " Define paths
 let g:janus_path = escape(fnamemodify(resolve(expand("<sfile>:p")), ":h"), ' ')
@@ -36,15 +39,5 @@ exe 'source ' . g:janus_vim_path . '/core/plugins.vim'
 call janus#load_pathogen()
 
 " .vimrc.after is loaded after the plugins have loaded
-"
-nnoremap <C-h> <C-w>h
-nnoremap <C-j> <C-w>j
-nnoremap <C-k> <C-w>k
-nnoremap <C-l> <C-w>l
 
-set guioptions+=LlRrb
-set guioptions-=LlRrb
-set colorcolumn=80
-colorscheme candycode
-
-autocmd Filetype rust setlocal ts=4 sts=4 sw=4
+runtime! macros/dvorak.vim
